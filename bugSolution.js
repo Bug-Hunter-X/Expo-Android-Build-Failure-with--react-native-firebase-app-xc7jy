@@ -1,0 +1,1 @@
+The solution involves ensuring the `google-services.json` file is correctly placed within the `android/app` directory of your Expo project.  Additionally, verify that the Firebase project is properly configured and linked to your app.  Make sure the package `@react-native-firebase/app` is correctly installed and linked. Finally, clean and rebuild the project using the Expo CLI.
