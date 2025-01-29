@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android app and involves the `@react-native-firebase/app` package.  The build process fails with an error related to missing or incorrect configuration of the Firebase project. The exact error message varies, but often points to issues with the `google-services.json` file or missing dependencies.
